@@ -51,6 +51,9 @@ Writing the spec first, then letting agents implement against it — the workflo
 
 - [Kiro](https://kiro.dev) — Amazon's spec-driven development environment (formerly Amazon Q Developer).
 - [obra/superpowers](https://github.com/obra/superpowers) — Open-source methodology layer that forces coding agents through spec-writing and TDD phases before implementation.
+- [Spec Kit](https://github.com/github/spec-kit) — GitHub's open-source spec-driven toolkit: constitution → spec → plan → tasks → implement, with any AI coding agent.
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Lightweight, brownfield-first spec-driven framework; each change is a delta spec (ADDED / MODIFIED / REMOVED) against current behaviour.
+- [Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) (DeepLearning.AI × JetBrains, course) — the short course behind Edition 2.
 
 ---
 
