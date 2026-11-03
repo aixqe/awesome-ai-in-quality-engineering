@@ -36,6 +36,9 @@ The open building blocks — auditable, version-controlled, and yours to keep.
 - [Aider](https://aider.chat) — Open-source AI pair programming in the terminal.
 - [Cline](https://cline.bot) — Open-source autonomous coding agent for VS Code with plan/act approval gates.
 - [OpenHands](https://www.all-hands.dev) — Open-source platform for AI software-development agents.
+- [promptfoo](https://github.com/promptfoo/promptfoo) — Open-source (MIT) CLI for LLM evals and red teaming; deterministic assertions plus model-graded ones, CI exit-code gating. Maps to the Eval-Driven Deployment probe.
+- [DeepEval](https://github.com/confident-ai/deepeval) — Python LLM eval framework; 20+ metrics including RAG faithfulness, pytest wrapper for CI. Maps to the Grounding with RAG probe.
+- [RAGAS](https://github.com/explodinggradients/ragas) — RAG evaluation metrics (faithfulness, answer relevancy, context precision). Maps to the Grounding probe.
 
 ## Research & reports
 
@@ -44,6 +47,7 @@ The data behind the claims. Read these before believing a vendor benchmark.
 - [World Quality Report 2025](https://www.capgemini.com) (Capgemini, Sogeti, OpenText) — Annual industry survey; the anchor dataset on GenAI adoption in QE (~90% of orgs pursuing, 15% scaled).
 - [DORA](https://dora.dev) (Google Cloud) — DevOps research program; tracks how AI adoption affects deploy frequency and maintenance load.
 - [PractiTest — State of Testing](https://www.practitest.com) — Annual practitioner survey; tracks real-world AI use in test design (70% of testers used AI for test creation in 2026).
+- [OWASP GenAI LLM Top 10 (2026)](https://genai.owasp.org) — Community security taxonomy for LLM apps: prompt injection, excessive agency, system-prompt leakage. Maps to the Indirect Prompt Injection and Least Privilege probes.
 
 ## Spec-driven development
 
