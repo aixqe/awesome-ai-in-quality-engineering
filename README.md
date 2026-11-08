@@ -15,6 +15,7 @@ Tools built around AI from the start: they generate, execute, and maintain tests
 - [TestDriver](https://www.testdriver.ai) — Computer-use AI agent that tests by reading screens visually, extending past the browser to desktop apps.
 - [QA Wolf](https://www.qawolf.com) — Emits deterministic, human-readable Playwright/Appium code; self-healing that fixes the test code, not just runtime behavior.
 - [Test-Lab](https://www.test-lab.ai) — Plain-English test plans executed by an AI browser agent; exports the Playwright scripts so you own the artifacts.
+- [agent-qa](https://vostride.com) — Natural-language web, Android, and iOS testing with persistent memidex memory, validated self-improvement, and recorded steps and screenshots; early-stage, FSL-1.1-ALv2 with competing-use restrictions and separate model/infrastructure costs.
 
 ## AI-augmented tools
 
